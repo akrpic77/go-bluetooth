@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez"
 )
 
 // NewDevice1 create a new Device1 client

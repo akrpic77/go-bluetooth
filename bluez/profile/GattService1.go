@@ -3,7 +3,7 @@ package profile
 import (
 	"github.com/fatih/structs"
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez"
 )
 
 // NewGattService1 create a new GattService1 client

@@ -5,7 +5,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez"
 )
 
 // NewObjectManager create a new instance

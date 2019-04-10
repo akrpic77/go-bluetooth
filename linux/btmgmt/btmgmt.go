@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/muka/go-bluetooth/linux"
+	"github.com/akrpic77/go-bluetooth/linux"
 )
 
 //BtAdapter contains info about adapter from btmgmt

@@ -8,10 +8,10 @@ import (
 	"sync"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
-	"github.com/muka/go-bluetooth/util"
+	"github.com/akrpic77/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/emitter"
+	"github.com/akrpic77/go-bluetooth/util"
 )
 
 var deviceRegistry = new(sync.Map)

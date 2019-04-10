@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
 )
 
 //getting config,data,period characteristics for Humidity sensor

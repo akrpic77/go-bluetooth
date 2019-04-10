@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/akrpic77/go-bluetooth/api"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/emitter"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -15,9 +15,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/devices"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/akrpic77/go-bluetooth/api"
+	"github.com/akrpic77/go-bluetooth/devices"
+	"github.com/akrpic77/go-bluetooth/emitter"
 	log "github.com/sirupsen/logrus"
 )
 

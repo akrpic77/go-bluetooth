@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/service"
+	"github.com/akrpic77/go-bluetooth/api"
+	"github.com/akrpic77/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/service"
 	log "github.com/sirupsen/logrus"
 )
 

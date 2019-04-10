@@ -2,7 +2,7 @@ package profile
 
 import (
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez"
 )
 
 // NewAdapter1 create a new Adapter1 client

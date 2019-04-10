@@ -4,7 +4,7 @@ package main
 import (
 	"os"
 
-	"github.com/muka/go-bluetooth/linux/btmgmt"
+	"github.com/akrpic77/go-bluetooth/linux/btmgmt"
 	log "github.com/sirupsen/logrus"
 )
 

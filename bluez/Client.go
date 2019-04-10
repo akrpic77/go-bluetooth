@@ -2,7 +2,7 @@ package bluez
 
 import (
 	"github.com/godbus/dbus"
-	"github.com/muka/go-bluetooth/util"
+	"github.com/akrpic77/go-bluetooth/util"
 )
 
 // NewClient create a new client

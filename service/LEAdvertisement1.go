@@ -4,8 +4,8 @@ import (
 	"github.com/godbus/dbus"
 	"github.com/godbus/dbus/introspect"
 	"github.com/godbus/dbus/prop"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
 )
 
 // NewLEAdvertisement1 create a new LEAdvertisement1 client

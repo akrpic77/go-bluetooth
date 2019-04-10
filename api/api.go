@@ -6,9 +6,9 @@ import (
 
 	"github.com/godbus/dbus"
 
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile"
-	"github.com/muka/go-bluetooth/emitter"
+	"github.com/akrpic77/go-bluetooth/bluez"
+	"github.com/akrpic77/go-bluetooth/bluez/profile"
+	"github.com/akrpic77/go-bluetooth/emitter"
 )
 
 //Exit performs a clean exit

@@ -4,8 +4,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/linux/btmgmt"
+	"github.com/akrpic77/go-bluetooth/api"
+	"github.com/akrpic77/go-bluetooth/linux/btmgmt"
 	log "github.com/sirupsen/logrus"
 )
 
